@@ -1,0 +1,25 @@
+﻿body {
+    background-color: rgb(24, 229, 54)
+}
+a {
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+.text_blue
+{
+    color:blue
+}
+h1, h2, h3, h4, h5, h6 {
+    text-transform:uppercase;
+}
+nav a {
+    color:red;
+}
+.blandine{
+    color:red;
+}
+.blandine:hover {
+        text-transform: uppercase;
+}
