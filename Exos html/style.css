@@ -23,3 +23,29 @@ nav a {
 .blandine:hover {
         text-transform: uppercase;
 }
+
+#chap1 {
+    border: 5px dashed blueviolet;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+#chap2 {
+    border: 5px dashed orangered;
+    width: 40%;
+    height: 300px;
+    float: left;
+}
+
+#principal {
+    width:960px;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    clear:both;
+}
